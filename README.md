@@ -2,12 +2,11 @@
 
 Submitted by:
 
-- Ofek Lamay 31928567
-- Michael Israeli 211785936
-- Sean Pesis 322854290
-- Doron Shapira 208105080
-- Adi Zalesky 323134239
-- Nimrod Nehemia 208494328
+- Ofek Lamay 
+- Michael Israeli 
+- Sean Pesis 
+- Doron Shapira 
+- Adi Zalesky 
 
 This repository contains two Django web applications that implement an employee portal and a customer database.
 
